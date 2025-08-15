@@ -13,7 +13,7 @@ Software developer focused on shipping reliable, well-tested apps and tooling.
 - FocusBar — macOS menu bar focus timer with Shortcuts support
 
 ## What I value
-Craftsmanship • Accessibility • Testing • Performance • Clear docs
+• Accessibility • Testing • Performance • Clear docs
 
 ## Contact
-Email • LinkedIn
+Email: trevorpaulsen@me.com • LinkedIn: https://www.linkedin.com/in/trevor-paulsen-ba97ba188/
